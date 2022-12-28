@@ -1,5 +1,5 @@
 - @NubScript7
-- I started coding 8 months ago...
+- I started coding 18 months ago...(1 year and 6 months)
 * programming language i know *
   - javascript (main)
   - python
