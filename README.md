@@ -1,9 +1,7 @@
 - @NubScript7
-- I started coding 18 months ago...(1 year and 6 months)
+- I started coding on year 2021
 * programming language i know *
-  - javascript (main)
+  - javascript (main) & nodejs(server handler)
   - python
-  - kotlin
-  (and i am willing to learn more...)
 - i live in the Phillipines🇵🇭
 - i am 14 years old
