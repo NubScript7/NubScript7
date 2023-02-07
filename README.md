@@ -6,4 +6,4 @@
   - kotlin
   (and i am willing to learn more...)
 - i live in the Phillipines🇵🇭
-- i am 14 years old(turned 14 on october 27)
+- i am 14 years old
